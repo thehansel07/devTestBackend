@@ -1,0 +1,11 @@
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\bin\Debug\net8.0\DevTestBackend.Domain.deps.json
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\bin\Debug\net8.0\DevTestBackend.Domain.dll
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\bin\Debug\net8.0\DevTestBackend.Domain.pdb
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.AssemblyInfoInputs.cache
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.AssemblyInfo.cs
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.csproj.CoreCompileInputs.cache
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.dll
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\refint\DevTestBackend.Domain.dll
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\DevTestBackend.Domain.pdb
+D:\MSI\DevTest\DevTestBackend\DevTestBackend.Domain\obj\Debug\net8.0\ref\DevTestBackend.Domain.dll

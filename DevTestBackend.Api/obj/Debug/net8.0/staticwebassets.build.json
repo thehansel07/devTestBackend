@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hNzKkvWyV7AKWo/g+asfssKsFV1U8Kizr5ovnN8AjHE=",
+  "Source": "DevTestBackend.Api",
+  "BasePath": "_content/DevTestBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
